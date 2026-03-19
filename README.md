@@ -1,2 +1,3 @@
-# prime-microservice-o4mf
-Automated issue comment bot repository
+# Prime Microservice O4Mf
+
+Automated issue comment bot repository.
